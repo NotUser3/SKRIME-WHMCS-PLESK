@@ -28,7 +28,7 @@ function skrimeplesklicense_API($params, $url, $method, $apiParameter = []) {
 
 function skrimeplesklicense_MetaData() {
     return array(
-        'DisplayName' => 'SKRIMO Plesk Lizenzen',
+        'DisplayName' => 'SKRIME Plesk Lizenzen',
         'APIVersion' => '1.2',
         'RequiresServer' => true,
     );
